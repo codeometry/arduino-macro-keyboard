@@ -3,8 +3,9 @@ Create a simple macro keyboard to send macro commands and control PC using Ardui
 
 # Tutorial
 Tutorial coming soon at:
-Video: https://youtube.com/codeometry
-Written: https://codeometry.in
+<br>Video: https://youtube.com/codeometry
+<br>Written: https://codeometry.in
+
 
 # Parts Used
 ### Arduino Leonardo:
