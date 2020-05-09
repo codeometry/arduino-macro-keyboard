@@ -1,4 +1,3 @@
-
 # Arduino Macro Keyboard
 Create a simple macro keyboard to send macro commands and control PC using Arduino.
 
@@ -9,9 +8,9 @@ Written: https://codeometry.in
 
 # Parts Used
 ### Arduino Leonardo:
-![Arduino Leonardo](https://github.com/codeometry/arduino-macro-keyboard/blob/master/arduino.jpg?raw=true =400x200)
+<img src="https://github.com/codeometry/arduino-macro-keyboard/blob/master/arduino.jpg" width="300" height="150" alt="Arduino Leonardo">
 
 Affiliate Link: https://amzn.to/2zkbxWq
 
 ### 4*4 Matrix Membrane Keypad:
-![Arduino Leonardo](https://github.com/codeometry/arduino-macro-keyboard/blob/master/4x4-matrix-membrane-switch-keypad.jpg?raw=true =400x400)
+<img src="https://github.com/codeometry/arduino-macro-keyboard/blob/master/4x4-matrix-membrane-switch-keypad.jpg" width="300" height="300" alt="Arduino Leonardo">
