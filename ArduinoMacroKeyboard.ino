@@ -55,69 +55,69 @@ void loop() {
     Serial.println(key);
     switch (key) {
       case '1':
-        Keyboard.print("Key '1' was pressed");
+        Keyboard.println("Key '1' was pressed");
         break;
 
       case '2':
-        Keyboard.print("Key '2' was pressed");
+        Keyboard.println("Key '2' was pressed");
         break;
 
       case '3':
         // https://github.com/arduino-libraries/Keyboard/blob/master/src/Keyboard.h
-        Keyboard.print("Key '3' was pressed");
+        Keyboard.println("Key '3' was pressed");
         break;
 
       case '4':
-        Keyboard.print("Key '4' was pressed");
+        Keyboard.println("Key '4' was pressed");
         break;
 
       case '5':
-        Keyboard.print("Key '5' was pressed");
+        Keyboard.println("Key '5' was pressed");
         break;
 
       case '6':
-        Keyboard.print("Key '6' was pressed");
+        Keyboard.println("Key '6' was pressed");
         break;
 
       case '7':
-        Keyboard.print("Key '7' was pressed");
+        Keyboard.println("Key '7' was pressed");
         break;
 
       case '8':
-        Keyboard.print("Key '8' was pressed");
+        Keyboard.println("Key '8' was pressed");
         break;
 
       case '9':
-        Keyboard.print("Key '9' was pressed");
+        Keyboard.println("Key '9' was pressed");
         break;
 
       case '0':
-        Keyboard.print("Key '0' was pressed");
+        Keyboard.println("Key '0' was pressed");
         break;
 
       case '*':
-        Keyboard.print("Key '*' was pressed");
+        Keyboard.println("Key '*' was pressed");
         break;
 
       case '#':
-       Keyboard.print("Key '#' was pressed");
+       Keyboard.println("Key '#' was pressed");
        break;
 
       case 'A':
         // https://github.com/NicoHood/HID/wiki/Consumer-API
-        Keyboard.print("Key 'A' was pressed");
+        Keyboard.println("Key 'A' was pressed");
         break;
 
       case 'B':
-        Keyboard.print("Key 'B' was pressed");
+        Keyboard.println("Key 'B' was pressed");
         break;
 
       case 'C':
-        Keyboard.print("Key 'C' was pressed");
+        Keyboard.println("Key 'C' was pressed");
         break;
 
       case 'D':
-        Keyboard.print("Key 'D' was pressed");
+        Keyboard.println("Key 'D' was pressed");
         break;
 
     }
